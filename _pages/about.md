@@ -11,7 +11,7 @@ redirect_from:
 # Welcome!
 
 ## Background:
-**___**
+***
 
 <img title="<Seb in the Northeast>" alt="Alt text" src="images/Frog.jpg">
 
